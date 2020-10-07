@@ -100,5 +100,9 @@ We both took a look at the damage. Greg pointed out some smaller notches around 
 
 With Greg's signed acknowledgement of responsiblity in my hand, I gave Greg the card to process the payment. While the payment was waiting to be confirmed, I casually mentioned to him "You guys give a good price, Safelite wanted to charge me $1,300."
 
-Shortly after Greg left, his guy which was going to repair the damage reached out to me. I sent him pictures of the damage. He imediately responded that "I can't repair this, this will need traditional auto-body-shop work."
+Shortly after Greg left, his guy reached out to me to fix the damages. I sent him pictures of the damage.
+
+![voice mail](./resources/dent-eraser-voicemail.mp3)
+
+He imediately responded that "I definately can't repair this, this will need traditional auto-body-shop work."
 
