@@ -69,7 +69,7 @@ The technician updated the quote to include the correct window.
 
 I declined their new quote because it was more than what Blue Ribbon was offering, $753.90.
 
-I called Blue Ribbon on Jun 2nd to schedule a time to repair the window, which would Jun 3rd.
+I called Blue Ribbon on Jun 2nd to schedule a time to repair the window, which was Jun 3rd.
 
 # Date of the repair
 
@@ -99,3 +99,6 @@ We both took a look at the damage. Greg pointed out some smaller notches around 
 > Signed statement from Greg: Blue Ribbon to pay to have 2 dents repaired on back of cab passenger side.
 
 With Greg's signed acknowledgement of responsiblity in my hand, I gave Greg the card to process the payment. While the payment was waiting to be confirmed, I casually mentioned to him "You guys give a good price, Safelite wanted to charge me $1,300."
+
+Shortly after Greg left, his guy which was going to repair the damage reached out to me. I sent him pictures of the damage. He imediately responded that "I can't repair this, this will need traditional auto-body-shop work."
+
