@@ -240,7 +240,7 @@ I believe the question of whether I did the damages to my vehicle, or if the tec
 
 ## Point A
 
-I witnessed technician B use a long bar, prying out the window exactly where the damages are. After some research, I believe it to be a knife bar, common in the auto-glass industry.
+I witnessed technician B use a long bar, prying out the window exactly where the damages are. After some research, I believe it to be a pipe knife, common in the auto-glass industry.
 
 <details>
   <summary>Pictures of a pipe knife</summary>
