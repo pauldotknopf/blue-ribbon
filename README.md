@@ -100,6 +100,8 @@ We both took a look at the damage. Greg pointed out some smaller notches around 
 
 With Greg's signed acknowledgment of responsibility in my hand, I gave Greg the card to process the payment. While the payment was waiting to be confirmed, I casually mentioned to him "You guys give a good price, Safelite wanted to charge me $1,300."
 
+I also mentioned to Greg that because of the damages, my new window isn't sealed properly, allowing water to get in. He brushed it off as a non-issue, presumedly because intended on repairing the damage.
+
 Shortly after Greg left, his guy reached out to me to fix the damages and left a voice mail ([Here](./resources/dent-eraser-voicemail.mp3)).
 
 > Hi Paul, my name is Micky Quin, my company is Dent Eraser, Blue Ribbon Glass gave me a call to take a look at your dents on the roof/back panel of your Toyota Tacoma, give me a call back, and we will see if we can get that fixed for you.
