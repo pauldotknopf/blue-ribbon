@@ -165,7 +165,7 @@ After another week-or-so goes by and not hearing anything back, it became more c
 Key points:
 
 * I got an estimate to repair the damage and attached it to the certified letter. I mentioned that I would accept estimates from Greg, provided that they were from a reputable body shop.
-* I made it clear that if this matter isn't solved (or progress made) by a July 3rd, I intend to sue.
+* I made it clear that if this matter isn't solved (or progress made) by a July 3rd, I intend to file with small claims.
 
 # Disputing the charge with bank
 
