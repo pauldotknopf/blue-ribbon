@@ -77,7 +77,7 @@ Blue Ribbon (two technicians, technician A and technician B) arrived to replace 
 
 *This will become important later.* As I was watching the technicians replace the window, I noticed them having a lot of trouble. They later mentioned the difficulty they were having. It might be because the Truck was brand new with less than 5,000 miles. I witnessed technician B use a 1ft-long pole with an exacto blade at the tip from the outside of the window, as if it were a pry-bar.
 
-After the work was completed, technician A guided me to the truck to sign and pay the invoice. I imediately noticed obvious damage to the truck, which was exactly where I noticed technician B use the 1ft-long pole. After mentioning it politely to the couple, technician B began to get argumentative/defensive. Technician A was quick to diffuse the frustration of technician B, and said the following to me:
+After the work was completed, technician A guided me to the truck to sign and pay the invoice. I imediately noticed obvious damage to the truck, which was exactly where I noticed technician B use the 1ft-long pole Technician A was quick to say the following to me:
 
 > I'm sorry about that. It's our policy to take pictures of existing damages before we begin work, and we didn't, so I will have the owner come out and square up with you.
 
