@@ -102,7 +102,7 @@ With Greg's signed acknowledgment of responsibility in my hand, I gave Greg the 
 
 I also mentioned to Greg that because of the damages, my new window isn't sealed properly, allowing water to get in. He brushed it off as a non-issue, presumably because he intended on repairing the damage.
 
-Shortly after Greg left, his guy reached out to me to fix the damages and left a voice mail ([Here](./resources/dent-eraser-voicemail.mp3)).
+Shortly after Greg left, his guy reached out to me to fix the damages and left a voice mail ([here](https://pknopf.com/blue-ribbon/resources/dent-eraser-voicemail.mp3)).
 
 > Hi Paul, my name is Micky Quin, my company is Dent Eraser, Blue Ribbon Glass gave me a call to take a look at your dents on the roof/back panel of your Toyota Tacoma, give me a call back, and we will see if we can get that fixed for you.
 
@@ -207,7 +207,7 @@ All this aside, unfortunately, the bank ultimately decided in favor of Greg, cit
 
 # Contacting Dent Eraser
 
-After hearing in Greg's counter in the CC dispute that Dent Eraser told him that I "ran him off", I decided to reach out to Micky Quin (the owner/operate of Dent Eraser) to hear his side of the story. The audio can be found [here](./resources/dent-eraser-call.mp3).
+After hearing in Greg's counter in the CC dispute that Dent Eraser told him that I "ran him off", I decided to reach out to Micky Quin (the owner/operate of Dent Eraser) to hear his side of the story. The audio can be found [here](https://pknopf.com/blue-ribbon/resources/dent-eraser-call.mp3).
 
 > ...ommited...
 
