@@ -207,7 +207,7 @@ All this aside, unfortunately, the bank ultimately decided in favor of Greg, cit
 
 # The question of "who did the damages"
 
-I believe the question of whether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only questions now is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due.
+I believe the question of whether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only questions now is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due, so let me explain the damages.
 
 <details>
   <summary>Pictures of the damages</summary>
