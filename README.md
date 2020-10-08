@@ -263,7 +263,7 @@ Technician A implied that he didn't see the damage before by admitting that he d
 
 This point was mentioned during mediation. I asked Greg if taking photos of existing damages was a rule established for all jobs, and Greg stated "yes". I then asked if his employee had these pictures, and Greg stated "I don't know".
 
-If Greg were to have pictures of the damages before the window was replaced, I would have no case. And given that this rule is implemented within Blue Ribbon for precicly cases like this, I can only conclude that Greg did in fact ask his employee if he had the pictures, but refused to say decidedly that his employee didn't in-fact have them. It doesn't happen often, but in this case, I believe that lack of exculpatory from the defendant actually strengthens my case.
+If Greg were to have pictures of the damages before the window was replaced, I would have no case. And given that this rule is implemented within Blue Ribbon for precicly cases like this, I can only conclude that Greg did in fact ask his employee if he had the pictures, but refused to say decidedly that his employee didn't in-fact have them. It doesn't happen often, but in this case, I believe that this lack of exculpatory evidence from the defendant actually strengthens my case.
 
 ## Point C
 
