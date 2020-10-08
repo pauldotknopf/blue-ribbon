@@ -207,7 +207,7 @@ All this aside, unfortunately, the bank ultimately decided in favor of Greg, cit
 
 # The question of "who did the damages"
 
-I believe the question of whether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only questions now is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due, so let me explain the damages.
+I believe the question of whether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only question now is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due, so let me explain the damages.
 
 <details>
   <summary>Pictures of the damages</summary>
@@ -259,7 +259,7 @@ After the window was replaced and the damage was mentioned to the technicians, t
 
 > It's part of our process to take photos of any existing damages before we begin our work, and since we *didn't* take any photos, I will have the boss come square up with you.
 
-Technician A acknowledged that he didn't see the damage before by admitting that he did not take any photos.
+Technician A implied that he didn't see the damage before by admitting that he did not take any photos.
 
 This point was mentioned during mediation. I asked Greg if taking photos of existing damages was a rule established for all jobs, and Greg stated "yes". I then asked if his employee had these pictures, and Greg stated "I don't know".
 
