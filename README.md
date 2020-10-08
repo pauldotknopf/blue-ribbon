@@ -205,6 +205,22 @@ I would love nothing more than to see the damages repaired.
 
 All this aside, unfortunately, the bank ultimately decided in favor of Greg, citing that "the simple act of providing CC is all that is needed to establish that the work was done satisfactory."
 
+# Contacting Dent Eraser
+
+After hearing in Greg's counter in the CC dispute that Dent Eraser told him that I "ran him off", I decided to reach out to Micky Quin (the owner/operate of Dent Eraser) to hear his side of the story. The audio can be found [here](./resources/dent-eraser-call.mp3).
+
+> ...ommited...
+
+> Micky: they are going to have to remove the window to repair that
+
+> ...ommited...
+
+> Me: Blue Ribbon said I ran you off...
+
+> Micky: What is that?! That is a bunch of crap ... I told him that it *needs* to go to a body shop ... I called him (Blue Ribbon) back and told them I can't do the repair, and he (Greg) said "that's unfortunate." ... there was no problem between you and me at all.
+
+> ...ommited...
+
 # The question of "who did the damages"
 
 I believe the question of whether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only question now is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due, so let me explain the damages.
@@ -277,6 +293,8 @@ The damage is much more consistent to what you'd see when prying the window out,
 
 # Mediation, before court
 
-There was a mediation done be Greg and I to attempt to resolve this matter before reaching the judge.
+There was a mediation done where Greg and I to attempted to resolve this matter before reaching the judge.
 
-Up until the mediation, my last communication was to Greg was the certified letter. I was curious what his defense would be, considering it seemed like he had none. However, I was dumbfounded by the amount of lies.
+Up until this mediation, my last communication was to Greg was the certified letter. I was, at this point, curious what his defense would be, considering it seemed like he had none. However, I was dumbfounded by the amount of lies.
+
+**\<todo\>**
