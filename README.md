@@ -106,6 +106,15 @@ Shortly after Greg left, his guy reached out to me to fix the damages and left a
 
 I called him back and he asked that I send him pictures of the damage. He then responded, saying "I definately can't repair this, this will need traditional auto-body-shop work. I will let Blue Ribbon know."
 
+<details>
+  <summary>Invoice from Dent Eraser</summary>
+  
+  ![](./resources/dent-eraser.jpg)
+
+</details>
+
+> Inspected dents on behalf of Blue Ribbon Glass. I am unable to perform the repairs. Vehicle will need convential auto body repair.
+
 # Trying to follow up with Greg
 
 ## The first follow up
@@ -195,9 +204,19 @@ First, the guy you sent was with Dent Earaser, not Dent Dr. I know the conversio
 
 Secondly, why would I run someone off who was going to repair the damages? I want nothing more than to see the damages fixed.
 
+Thirdly, Dent Eraser has provided an invoice that clearly states that he is unable to perform the work. Greg is patently lying here.
+
+<details>
+  <summary>Proof, invoice from Dent Eraser</summary>
+  
+  ![](./resources/dent-eraser.jpg)
+
+</details>
+
 > I understand that you need to verify his complaint, but it is evident to me that Mr Knopf doesn't want to own up to his responsibilities and wants others to pay for his mistakes.
 
 The complete irony of saying "Mr Knopf doesn't want to own up to his responsibilities and wants others to pay for his mistakes." is completely lost on Greg, when in fact, the exact inverse is true. Greg is desparately running from *his* responsibilities.
 
-All this aside, the bank ultimatly decided in favor of Greg, citing that "the simple act of providing CC all that is needed to establish that the work was done satisfactory."
+All this aside, the bank ultimatly decided in favor of Greg, citing that "the simple act of providing CC is all that is needed to establish that the work was done satisfactory."
 
+# Greg 
