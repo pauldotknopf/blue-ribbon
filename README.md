@@ -149,7 +149,7 @@ I managed to finally get a hold of him. The conversation went something like.
 
 # Certified letter of intent to involve the courts
 
-After another week-or-so goes by and not hearing anything back, I decided to send Greg a certfied letter. The letter was marked delivered as of June 29th.
+After another week-or-so goes by and not hearing anything back, it became more clear that Greg had no intention of resolving this matter. I decided to send Greg a certfied letter. The letter was marked delivered as of June 29th.
 
 <details>
   <summary>Proof of delivery</summary>
@@ -182,29 +182,15 @@ Greg's response to the claim contained many falsehoods.
 
 </details>
 
-> My. Knopf states that our good/services are not as described. We did not install an aftermarket flass in his borrowed truck. We, in fact, installed a factory back flass purchased from Gettel Toyota into the truck. That should clarify the good ends of dispute.
+> I did tell Mr Knopf that I would agree to have the dents repaired by Dent Dr because it is only $75 charge and it was not worth the trouble not to spend the $75.
 
-This was never a point of contention. The powered glass itself is fine. However, the seal is broken around the window, because of the damages, causing water to leak behind the window. Ignoring the damage itself to the cabin roof for a moment, I wouldn't consider the window to be "successfuly installed" because of the broken seal caused by the damage to the cabin roof.
+Greg is confused in saying the company he sent was Dent Dr when it was actually Dent Eraser.
 
-> Now as for the services, we service all four local Toyota dealerships and have for over 12 years. We have replaced too many to count back glass in Tacoma pickups oer the years. In fact, we have never had a complaint from any Toyota dealship concerning our work ethic of quality. This is easy to verify as if we did shoddy work as Mr. Knopf is trying to state, the dealerships would not refer Blue Ribbon Auto Glass to it's customers as it would not look professional towards them. They do not want their dealership tarnished by shoddy workmanship.
-
-Assuming that it's true that you've "never had a complaint", there is a first for everything. This doesn't prove you did quality work on my truck. This is a total non-sequitor.
-
-> Mr. Knopf is upset because he he threw debris into his borrowed truck and broke the window, it also dented the track cab. He is very aware of this fact but is trying to get Blue Ribbon to pay for said damages.
-
-This is conjecture. And if this were the case, why did you sign a statement indicating that you are responsible? Why did you instruct your guys to come fix it?
-
-> As a matter of fact, I did tell Mr Knopf that I would agree to have the dents repaied by Dent Dr because it is only $75 charge and it was not worth the trouble not to spend the $75.
-
-You did not. Your signed statement says "Blue Ribbon to pay to have 2 dents repaired on back of cab passenger side." If you truly meant "I will fix the damages, but only up to $75", it would have said so in the statement you wrote and signed. I mean, if your intention was only every to give me $75, why not take that off of the $753.90 bill I paid? Because it didn't happen the way you describe, plain and simple.
+Greg's signed statement says "Blue Ribbon to pay to have 2 dents repaired on back of cab passenger side." It makes no mention that Greg would only be responsible for damages up to $75 in cost. Otherwise, it would/should have been written in the signed statement.
 
 > I sent the Dent Dr to Mr Knopf's house that day to do the repair and Mr Knopf ran him off and told him he wanted the repair done at the dealership.
 
-First, the guy you sent was with Dent Earaser, not Dent Dr. I know the conversion I had with him. He was clear in saying that there was absolutely nothing he could do to fix the damages. It was outside of his capability.
-
-Secondly, why would I run someone off who was going to repair the damages? I want nothing more than to see the damages fixed.
-
-Thirdly, Dent Eraser has provided an invoice that clearly states that he is unable to perform the work. Greg is patently lying here.
+As I stated previously, Dent Dr was clear in saying that there was strictly nothing he could do to fix the damages. It was outside of his capability.
 
 <details>
   <summary>Proof, invoice from Dent Eraser</summary>
@@ -213,10 +199,31 @@ Thirdly, Dent Eraser has provided an invoice that clearly states that he is unab
 
 </details>
 
-> I understand that you need to verify his complaint, but it is evident to me that Mr Knopf doesn't want to own up to his responsibilities and wants others to pay for his mistakes.
+I would love nothing more than to see the damages repaired.
 
-The complete irony of saying "Mr Knopf doesn't want to own up to his responsibilities and wants others to pay for his mistakes." is completely lost on Greg, when in fact, the exact inverse is true. Greg is desparately running from *his* responsibilities.
+All this aside, unfortunately, the bank ultimatly decided in favor of Greg, citing that "the simple act of providing CC is all that is needed to establish that the work was done satisfactory."
 
-All this aside, the bank ultimatly decided in favor of Greg, citing that "the simple act of providing CC is all that is needed to establish that the work was done satisfactory."
+# The question of "who did the damages"
 
-# Greg 
+I believe the question of wether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only questions know is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due.
+
+<details>
+  <summary>Pictures of the damages</summary>
+  
+  ![](./resources/truck1.jpg)
+
+  ![](./resources/truck2.jpg)
+
+  ![](./resources/truck3.jpg)
+  
+  ![](./resources/truck4.jpg)
+
+</details>
+
+**I witnessed the technicians use a pole as a prybar.**
+
+# Mediation, before court
+
+There was a mediation done be Greg and I to attempt to resolve this matter before reaching the judge.
+
+Up until the mediation, my last comunication was to Greg was the ceritfied letter. I was curious what his defense would be, considering it seemed like he had none. However, I was dumbfounded by the amount of lies.
