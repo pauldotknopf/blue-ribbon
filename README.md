@@ -73,7 +73,7 @@ I called Blue Ribbon on Jun 2nd to schedule a time to repair the window, which w
 
 # Date of the repair
 
-Blue Ribbon (two technicians, technician A and technician B) arrived to replace the window on Jun 3rd. I watched them as they replaced the Window.
+Blue Ribbon (two technicians, technician A and technician B) arrived to replace the window on Jun 3rd. I watched them as they replaced the window.
 
 *This will become important later.* As I was watching the technicians replace the window, I noticed them having a lot of trouble. They later mentioned the difficulty they were having. It might be because the Truck was brand new with less than 5,000 miles. I witnessed technician B use a 1ft-long pole with an exacto blade at the tip from the outside of the window, as if it were a pry-bar.
 
