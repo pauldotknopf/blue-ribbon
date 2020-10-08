@@ -123,13 +123,13 @@ I called him back and he asked that I send him pictures of the damage. He then r
 
 After assuming that Dent Eraser would have contacted Greg about the damages, I waited a few days for Greg's call. After hearing nothing, I began calling his office to try to get a hold of him, leaving messages with the office for Greg to get back with me.
 
-After maybe a week, I managed to call the office while Greg was present. Greg was given the phone. The conversation went something like.
+After maybe a week, I managed to call the office while Greg was present. Greg was given the phone. The conversation went something like:
 
 > Paul: Hey, the guy you sent out said he can't fix the damages.
 
-> Greg: Well, you wanted all this extra work, entire roof painted, etc, and I'm not doing that.
+> Greg: Well, you wanted all this extra work, entire roof painted, etc, and I'm not doing that!
 
-> Paul: Stop, I didn't demand anything from him. He said simple that he couldn't fix the dents.
+> Paul: Woa woa woa, hold on, I didn't demand anything from him. He said simply that he couldn't fix the dents.
 
 > Greg: Well, I got another guy, I'll let you know what's going on when I get a hold of him.
 
