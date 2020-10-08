@@ -210,17 +210,68 @@ I believe the question of wether I did the damages to my vehicle, or if the tech
 <details>
   <summary>Pictures of the damages</summary>
   
+  *Picture 1*
+
   ![](./resources/truck1.jpg)
+
+  *Picture 2*
 
   ![](./resources/truck2.jpg)
 
+  *Picture 3*
+
   ![](./resources/truck3.jpg)
-  
+
+  *Picture 4*
+
   ![](./resources/truck4.jpg)
+
+  *Picture 5*
+
+  ![](./resources/truck-broken-seal-1.jpg)
+
+  *Picture 6*
+
+  ![](./resources/truck-broken-seal-2.jpg)
 
 </details>
 
-**I witnessed the technicians use a pole as a prybar.**
+## Point A
+
+I witnessed technician B use a long bar, prying out the window exactly where the damages are. After some research, I believe it to be a knife bar, common in the auto-glass industry.
+
+<details>
+  <summary>Pictures of a pipe knife</summary>
+  
+  ![](./resources/pipe-knife.jpg)
+
+</details>
+
+When I witnessed technician B using the pipe knife, I didn't think anything of it, assuming it was all routine and that they've done this many times before.
+
+If you look at the damage, it seems obvious that the dents are due to a prying-like action. The bigger dents are to the right, where the prying would begin, becoming smaller as you move to the left, as less pressure is needed as the window comes lose.
+
+## Point B
+
+After the window was replaced and the damage was mentioned to the technicians, technician A confided in me, saying
+
+> It's part of our process to take photos of any existing damages before we begin our work, and since we *didn't* take any photos, I will have the boss come square up with you.
+
+Technician A acknowledged that he didn't see the damage before by admitting that he did not take any photos.
+
+This point was mentioned during mediation. I asked Greg if taking photos of existing damages was a rule established for all jobs, and Greg stated "yes". I then asked if his employee had these pictures, and Greg stated "I don't know".
+
+If Greg were to have pictures of the damages before the window was replaced, I would have no case. And given that this rule is implemented within Blue Ribbon for precicly cases like this, I can only conclude that Greg did in fact ask his employee if he had the pictures, but refused to say decisevly that his employee didn't in-fact have them. It doesn't happen often, but in this case, I believe that lack of exculpatory from the defendent actually strengthens my case.
+
+## Point C
+
+Greg claims that the damages to the window were done by the debris that I presumedly threw into the back of the truck. However, this would require an extraordinary amount of happenstance.
+
+First, consider that all the dents appear perfectly along the seal of the window, with each dent becoming smaller as you move from right to left.
+
+What this means is that I would have to either A) throw an object with 3-4 pointed ends so that each end of the points line up *exactly* with the window seal, curverature and all, or B) through 3-4 objects at the truck, with each point of contact hitting percicle along the window seal, with each impact having slightly less force as you move from right to left.
+
+The damage is much more consitent to what you'd see when prying the window out, with 3-4 lever-points, from right to left, with each lever-point requiring less and less effort, hence the smaller dents as you move from right to left. I actually witnessed technician B holding the pipe knife directly where the dents where, and that the technicians mentioned to me the incredible difficulty that had removing the window.
 
 # Mediation, before court
 
