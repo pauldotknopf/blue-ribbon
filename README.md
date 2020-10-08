@@ -56,7 +56,7 @@ Safelite's quote was cheaper, so I scheduled for them to come out on Jun 2nd.
 
 </details>
 
-The technician arrived with a non-powered window. I initially scheduled the appointment via their automated website, but unfortunetly, it wasn't smart enough to know that the Tacoma required a *powered* window.
+The technician arrived with a non-powered window. I initially scheduled the appointment via their automated website, but unfortunately, it wasn't smart enough to know that the Tacoma required a *powered* window.
 
 The technician updated the quote to include the correct window.
 
@@ -85,10 +85,10 @@ After the work was completed, technician A guided me to the truck to sign and pa
 
 A few days later, on Jun 5th, Greg Blum arrived at my home to resolve the matter.
 
-We both took a look at the damage. Greg pointed out some smaller notches around the window, which were less noticable. He said to me "this isn't a problem, I have a guy that can fix this, no problem." I was initially planning on holding payment until the damage was resolved, but Greg then said in a persistant/abrasive tone, "I can't float this debt, I need you to pay the invoice." I attempted to compromise, stating "Ok, I will pay the invoice, but only as long as you write on the receipt that you are responsible for the damages, with your signature." He did so.
+We both took a look at the damage. Greg pointed out some smaller notches around the window, which were less noticeable. He said to me "this isn't a problem, I have a guy that can fix this, no problem." I was initially planning on holding payment until the damage was resolved, but Greg then said in a persistent/abrasive tone, "I can't float this debt, I need you to pay the invoice." I attempted to compromise, stating "Ok, I will pay the invoice, but only as long as you write on the receipt that you are responsible for the damages, with your signature." He did so.
 
 <details>
-  <summary>Final reciept</summary>
+  <summary>Final receipt</summary>
   
   ![](./resources/receipt1.jpg)
 
@@ -98,13 +98,13 @@ We both took a look at the damage. Greg pointed out some smaller notches around 
 
 > Signed statement from Greg: Blue Ribbon to pay to have 2 dents repaired on back of cab passenger side.
 
-With Greg's signed acknowledgement of responsiblity in my hand, I gave Greg the card to process the payment. While the payment was waiting to be confirmed, I casually mentioned to him "You guys give a good price, Safelite wanted to charge me $1,300."
+With Greg's signed acknowledgment of responsibility in my hand, I gave Greg the card to process the payment. While the payment was waiting to be confirmed, I casually mentioned to him "You guys give a good price, Safelite wanted to charge me $1,300."
 
 Shortly after Greg left, his guy reached out to me to fix the damages and left a voice mail ([Here](./resources/dent-eraser-voicemail.mp3)).
 
-> Hi Paul, my name is Micky Quin, my company is Dent Eraser, Blue Ribbon Glass gave me a call to take a look at your dents on the roof/back panel of your Toyota Tacoma, give me a call back and we will see if we can get that fixed for you.
+> Hi Paul, my name is Micky Quin, my company is Dent Eraser, Blue Ribbon Glass gave me a call to take a look at your dents on the roof/back panel of your Toyota Tacoma, give me a call back, and we will see if we can get that fixed for you.
 
-I called him back and he asked that I send him pictures of the damage. He then responded, saying "I definately can't repair this, this will need traditional auto-body-shop work. I will let Blue Ribbon know."
+I called him back and he asked that I send him pictures of the damage. He then responded, saying "I definitely can't repair this, this will need traditional auto-body-shop work. I will let Blue Ribbon know."
 
 <details>
   <summary>Invoice from Dent Eraser</summary>
@@ -113,7 +113,7 @@ I called him back and he asked that I send him pictures of the damage. He then r
 
 </details>
 
-> Inspected dents on behalf of Blue Ribbon Glass. I am unable to perform the repairs. Vehicle will need convential auto body repair.
+> Inspected dents on behalf of Blue Ribbon Glass. I am unable to perform the repairs. Vehicle will need conventional auto body repair.
 
 # Trying to follow up with Greg
 
@@ -149,7 +149,7 @@ I managed to finally get a hold of him. The conversation went something like.
 
 # Certified letter of intent to involve the courts
 
-After another week-or-so goes by and not hearing anything back, it became more clear that Greg had no intention of resolving this matter. I decided to send Greg a certfied letter. The letter was marked delivered as of June 29th.
+After another week-or-so goes by and not hearing anything back, it became more clear that Greg had no intention of resolving this matter. I decided to send Greg a certified letter. The letter was marked delivered as of June 29th.
 
 <details>
   <summary>Proof of delivery</summary>
@@ -167,7 +167,7 @@ Key points:
 
 # Disputing the charge with bank
 
-Considering that he didn't fulfil his part of the signed contract that "as a part of the $753.90 payment given to the defendent, Blue Ribbon is also to repair the dents," I decided to dispute the charge with the bank.
+Considering that he didn't fulfill his part of the signed contract that "as a part of the $753.90 payment given to the defendant, Blue Ribbon is also to repair the dents," I decided to dispute the charge with the bank.
 
 I provided similar information provided here to the bank.
 
@@ -201,11 +201,11 @@ As I stated previously, Dent Dr was clear in saying that there was strictly noth
 
 I would love nothing more than to see the damages repaired.
 
-All this aside, unfortunately, the bank ultimatly decided in favor of Greg, citing that "the simple act of providing CC is all that is needed to establish that the work was done satisfactory."
+All this aside, unfortunately, the bank ultimately decided in favor of Greg, citing that "the simple act of providing CC is all that is needed to establish that the work was done satisfactory."
 
 # The question of "who did the damages"
 
-I believe the question of wether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only questions know is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due.
+I believe the question of whether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only questions know is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due.
 
 <details>
   <summary>Pictures of the damages</summary>
@@ -249,7 +249,7 @@ I witnessed technician B use a long bar, prying out the window exactly where the
 
 When I witnessed technician B using the pipe knife, I didn't think anything of it, assuming it was all routine and that they've done this many times before.
 
-If you look at the damage, it seems obvious that the dents are due to a prying-like action. The bigger dents are to the right, where the prying would begin, becoming smaller as you move to the left, as less pressure is needed as the window comes lose.
+If you look at the damage, it seems obvious that the dents are due to a prying-like action. The bigger dents are to the right, where the prying would begin, becoming smaller as you move to the left, as less pressure is needed as the window comes loose.
 
 ## Point B
 
@@ -261,20 +261,20 @@ Technician A acknowledged that he didn't see the damage before by admitting that
 
 This point was mentioned during mediation. I asked Greg if taking photos of existing damages was a rule established for all jobs, and Greg stated "yes". I then asked if his employee had these pictures, and Greg stated "I don't know".
 
-If Greg were to have pictures of the damages before the window was replaced, I would have no case. And given that this rule is implemented within Blue Ribbon for precicly cases like this, I can only conclude that Greg did in fact ask his employee if he had the pictures, but refused to say decisevly that his employee didn't in-fact have them. It doesn't happen often, but in this case, I believe that lack of exculpatory from the defendent actually strengthens my case.
+If Greg were to have pictures of the damages before the window was replaced, I would have no case. And given that this rule is implemented within Blue Ribbon for precicly cases like this, I can only conclude that Greg did in fact ask his employee if he had the pictures, but refused to say decidedly that his employee didn't in-fact have them. It doesn't happen often, but in this case, I believe that lack of exculpatory from the defendant actually strengthens my case.
 
 ## Point C
 
-Greg claims that the damages to the window were done by the debris that I presumedly threw into the back of the truck. However, this would require an extraordinary amount of happenstance.
+Greg claims that the damages to the window were done by the debris that I presumably threw into the back of the truck. However, this would require an extraordinary amount of happenstance.
 
 First, consider that all the dents appear perfectly along the seal of the window, with each dent becoming smaller as you move from right to left.
 
-What this means is that I would have to either A) throw an object with 3-4 pointed ends so that each end of the points line up *exactly* with the window seal, curverature and all, or B) through 3-4 objects at the truck, with each point of contact hitting percicle along the window seal, with each impact having slightly less force as you move from right to left.
+What this means is that I would have to either A) throw an object with 3-4 pointed ends so that each end of the points line up *exactly* with the window seal, curvature and all, or B) throw 3-4 objects at the truck, with each point of contact hitting precisely along the window seal, with each impact having slightly less force as you move from right to left.
 
-The damage is much more consitent to what you'd see when prying the window out, with 3-4 lever-points, from right to left, with each lever-point requiring less and less effort, hence the smaller dents as you move from right to left. I actually witnessed technician B holding the pipe knife directly where the dents where, and that the technicians mentioned to me the incredible difficulty that had removing the window.
+The damage is much more consistent to what you'd see when prying the window out, with 3-4 lever-points, from right to left, with each lever-point requiring less and less effort, hence the smaller dents as you move from right to left. I actually witnessed technician B holding the pipe knife directly where the dents where, and that the technicians mentioned to me the incredible difficulty that had removing the window.
 
 # Mediation, before court
 
 There was a mediation done be Greg and I to attempt to resolve this matter before reaching the judge.
 
-Up until the mediation, my last comunication was to Greg was the ceritfied letter. I was curious what his defense would be, considering it seemed like he had none. However, I was dumbfounded by the amount of lies.
+Up until the mediation, my last communication was to Greg was the certified letter. I was curious what his defense would be, considering it seemed like he had none. However, I was dumbfounded by the amount of lies.
