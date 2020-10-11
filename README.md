@@ -252,6 +252,18 @@ I believe the question of whether I did the damages to my vehicle, or if the tec
 
   ![](./resources/truck-broken-seal-2.jpg)
 
+  *Picture 7*
+
+  ![](./resources/truck-paint-1.jpg)
+
+  *Picture 8*
+
+  ![](./resources/truck-paint-2.jpg)
+
+  *Picture 9*
+
+  ![](./resources/truck-paint-2-annotated.jpg)
+
 </details>
 
 ## Point A
@@ -291,10 +303,93 @@ What this means is that I would have to either A) throw an object with 3-4 point
 
 The damage is much more consistent to what you'd see when prying the window out, with 3-4 lever-points, from right to left, with each lever-point requiring less and less effort, hence the smaller dents as you move from right to left. I actually witnessed technician B holding the pipe knife directly where the dents where, and that the technicians mentioned to me the incredible difficulty that had removing the window.
 
+## Point D
+
+All of Greg's claims center around the idea that some object(s) hit the rim of the window, causing dents in the cabin.
+
+To begin with, whatever caused the dents made direct contact to the paint/body/cabin, leaving white paint/material behind.
+
+Secondly, the object that left the paint/material behind made contact behind the window, evidenced by where the paint/material exists.
+
+<details>
+  <summary>Paint/scratchs from foreign object, behind the window.</summary>
+
+  *Picture 1*
+
+  ![](./resources/truck-paint-1.jpg)
+
+  *Picture 2*
+
+  ![](./resources/truck-paint-2.jpg)
+
+  *Picture 3*
+
+  ![](./resources/truck-paint-2-annotated.jpg)
+
+</details>
+
+It is highly unlikely that if an object where to hit the window as Greg describes, that the object would leave paint/material behind the window and seal. It is more likely that there was an object that was inserted *behind* the window and seal, multiple times in multiple spots, causing the damage.
+
 # Mediation, before court
+
+**Not admissable in court**
 
 There was a mediation done where Greg and I to attempted to resolve this matter before reaching the judge.
 
-Up until this mediation, my last communication was to Greg was the certified letter. I was, at this point, curious what his defense would be, considering it seemed like he had none. However, I was dumbfounded by the amount of lies.
+Up until this mediation, my last communication to Greg was the certified letter. Up until that point, I haven't heard a defense from Greg. He just ignored my calls. I was very curious what his defense would be. I would eventually be dumbfounded by the amount of lies.
 
-**\<todo\>**
+## "Safelite told me there was damage to the vehicle before Blue Ribbon got there"
+
+I previously mentioned that when Greg showed up to my house to pay the bill, I made small-talk stating "Safelite came out yesterday, they wanted to charge more! Your prices are good!"
+
+Well, in mediation, Greg attempted to say that he spoke with Safelite (a competitor of his) about my vehicle.
+
+> Greg: I spoke to Safelite. They told me that when they came out to repair Mr Knopf's window, they saw the damage to the truck and refused to do the work because of it, which is why Mr Knopf came to Blue Ribbon to repair the window. And I have that employee, and he is willing to go on the record stating as much.
+
+What?!? I'm not sure who he was trying to convince here, because between me and him, we know the truth. The only thing I can think of was that he was trying to pass that lie to the mediator, which is funny, because the mediator doesn't make judgements. Their sole purpose is to facilate a discussion between Greg and I, so for him to lie like this was appalling. From this moment, I knew that this entire ordeal would be incedibly contentious.
+
+## "Mr Knopf, why won't you be honest and tell the court whos truck this *really* is?"
+
+Greg has always made it a point to refer to my truck as a "borrowed truck", as if that helps his case or somehow absolves him of responsibilty.
+
+Yes, the truck that I damaged was indeed my fathers. I borrowed it. I could have returned the truck back to my father with the window broken, or the damages done during the replacement of the window. However, my father deserves to have his truck returned to him in the same condition in which he lent it. I took responsibility and owned up to the damage that I did to my fathers truck (broken window) and had it replaced/fixed. I wish I could say that Greg had done the same.
+
+## "Where are the pictures of the damage?"
+
+I mentioned this previously, but I'm going to elaborate a bit here.
+
+When I initially pointed out the damages to the technician on the date of the install, the technician said:
+
+> Technician: It's part of our process to take photos of any existing damages before we begin our work, and since we *didn't* take any photos, I will have the boss come square up with you.
+
+Knowing that this is company policy to take pictures of existing damage before work begins, I probed Greg a little during mediation.
+
+> Paul: I can imagine that Blue Ribbon has some kind of policy when they work on a window that has existing damage. I can imagine that the employees must take pictures and document the damage before the work begins. It makes sense. If I were running a glass company, I would do the same, I'd be stupid not to. Greg, does your company have such a policy?
+
+> Greg: Yes, we do.
+
+> Paul: Great, does your technician have pictures of the damages?
+
+> Greg: ....ughh.... I don't know.
+
+> Paul: What?!? You "don't know"?!? You have a policy instituted to protect you from the exactly these cases, and you didn't think to reach out to your employee and ask if he had those photos?
+
+We all know that Greg reached out to his employees to ask him for these pictures. He knew that those pictures don't exist. And he knows that if he were to admit that they don't exist, that it would hurt his case.
+
+Greg is incedibly dishonest.
+
+## "I tried to repair Mr Knopf's window, but he ran off my guys!"
+
+> Greg: Sure, I agreed to repair the dents in Paul's vehicle. But when I sent my guys out, he ran them off!
+
+This is absurd. I want nothing more then to have my damages repaired.
+
+I have reached out to "the guy" he sent out to my home (Dent Eraser), and he stated that he told Greg that he couldn't repair the dents. I have him on recording admitting as much ([here](https://pknopf.com/blue-ribbon/resources/dent-eraser-call.mp3)).
+
+> Dent Eraser: That is a bunch of crap ... I told him that it *needs* to go to a body shop ... I called him (Blue Ribbon) back and told them I can't do the repair, and he (Greg) said "that's unfortunate." ... there was no problem between you and me at all.
+
+Greg says that "I am demanding to have my truck repainted. I'll fix the dents, but I'm not painting your truck." I'm not demanding anything other than to repair the damage to the vehicle. Unfortunately for Greg, given the nature/type/location of the dents, you *have* to repaint. If you were to pop out the dents, the paint will immediately crack/chip.
+
+# In summary.
+
+Greg is incredibly dishonest. I wouldn't recommend anyone to do business with him. If he does *any* damage to your person/property, he will lie and cheat his way out of his responsibilities. He is a disgusting pathetic shell-of-a-man.
