@@ -45,9 +45,9 @@ Suing for: **$1726.42**
 
 # Contacting companies to repair the broken window.
 
-I began calling multiple companies for quotes to repair the window, including Safelite and Blue Ribbon.
+I first reached out to Gettel Toyota to repair my window. Unfortunately, they don't have the ability to do that, so they refered me to Blue Ribbon, stating "They will take good care of you."
 
-Safelite's quote was cheaper, so I scheduled for them to come out on Jun 2nd.
+I received a verbal quote from Blue Ribbon, but after shopping around, I found that Safelite offered the best price. I scheduled for them to come out on Jun 2nd.
 
 <details>
   <summary>Initial Safelite quote: $583.12</summary>
@@ -56,9 +56,9 @@ Safelite's quote was cheaper, so I scheduled for them to come out on Jun 2nd.
 
 </details>
 
-The technician arrived with a non-powered window. I initially scheduled the appointment via their automated website, but unfortunately, it wasn't smart enough to know that the Tacoma required a *powered* window.
+I scheduled the appointment via their automated website, but unfortunately, the website wasn't smart enough to know that the Tacoma required a *powered* window, and the tecnician arrived with a *non-powered* window.
 
-The technician updated the quote to include the correct window.
+The technician updated the quote to include the correct type of window.
 
 <details>
   <summary>Final Safelite quote: $1,310.72</summary>
@@ -67,7 +67,7 @@ The technician updated the quote to include the correct window.
 
 </details>
 
-I declined their new quote because it was more than what Blue Ribbon was offering, $753.90.
+I declined their new quote because it was more than what Blue Ribbon was offering, which was $753.90.
 
 I called Blue Ribbon on Jun 2nd to schedule a time to repair the window, which was Jun 3rd.
 
