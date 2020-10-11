@@ -45,7 +45,7 @@ Suing for: **$1726.42**
 
 # Contacting companies to repair the broken window.
 
-I first reached out to Gettel Toyota to repair my window. Unfortunately, they don't have the ability to do that, so they refered me to Blue Ribbon, stating "They will take good care of you."
+I first reached out to Gettel Toyota to repair my window. Unfortunately, they don't have the ability to do that, so they referred me to Blue Ribbon, stating "They will take good care of you."
 
 I received a verbal quote from Blue Ribbon, but after shopping around, I found that Safelite offered the best price. I scheduled for them to come out on Jun 2nd.
 
@@ -77,7 +77,7 @@ Blue Ribbon arrived (two technicians, technician A and technician B) to replace 
 
 *This will become important later.* As I was watching the technicians replace the window, I noticed them having a lot of trouble. They later mentioned the difficulty they were having. It might be because the Truck was brand new with less than 5,000 miles. I witnessed technician B use a 1ft-long pole with an exacto blade at the tip from the outside of the window, as if it were a pry-bar.
 
-After the work was completed, technician A guided me to the truck to sign and pay the invoice. I imediately noticed obvious damage to the truck, which was exactly where I noticed technician B use the 1ft-long pole Technician A was quick to say the following to me:
+After the work was completed, technician A guided me to the truck to sign and pay the invoice. I immediately noticed obvious damage to the truck, which was exactly where I noticed technician B use the 1ft-long pole Technician A was quick to say the following to me:
 
 > I'm sorry about that. It's our policy to take pictures of existing damages before we begin work, and we didn't, so I will have the owner come out and square up with you.
 
@@ -106,7 +106,7 @@ Shortly after Greg left, his guy reached out to me to fix the damages and left a
 
 > Hi Paul, my name is Micky Quin, my company is Dent Eraser, Blue Ribbon Glass gave me a call to take a look at your dents on the roof/back panel of your Toyota Tacoma, give me a call back, and we will see if we can get that fixed for you.
 
-I called him back and he asked that I send him pictures of the damage. He then responded, saying "I definitely can't repair this, this will need traditional auto-body-shop work. I will let Blue Ribbon know."
+I called him back, and he asked that I send him pictures of the damage. He then responded, saying "I definitely can't repair this, this will need traditional auto-body-shop work. I will let Blue Ribbon know."
 
 <details>
   <summary>Invoice from Dent Eraser</summary>
@@ -209,21 +209,21 @@ All this aside, unfortunately, the bank ultimately decided in favor of Greg, cit
 
 After hearing in Greg's counter in the CC dispute that Dent Eraser told him that I "ran him off", I decided to reach out to Micky Quin (the owner/operate of Dent Eraser) to hear his side of the story. The audio can be found [here](https://pknopf.com/blue-ribbon/resources/dent-eraser-call.mp3).
 
-> ...ommited...
+> ...omitted...
 
 > Micky: they are going to have to remove the window to repair that
 
-> ...ommited...
+> ...omitted...
 
 > Me: Blue Ribbon said I ran you off...
 
 > Micky: What is that?! That is a bunch of crap ... I told him that it *needs* to go to a body shop ... I called him (Blue Ribbon) back and told them I can't do the repair, and he (Greg) said "that's unfortunate." ... there was no problem between you and me at all.
 
-> ...ommited...
+> ...omitted...
 
 # The question of "who did the damages"
 
-I believe the question of whether I did the damages to my vehicle, or if the technicians did, is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only question now is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due, so let me explain the damages.
+I believe the question of whether me or the technicians did the damages to my vehicle is ultimately irrelevant. Greg has signed and acknowledged that he is responsible for the damages. In my view, the only question now is what the monetary damages owed are. With that said, it's clear that Greg intends to make this a point in order to avoid paying what's due, so let me explain the damages.
 
 <details>
   <summary>Pictures of the damages</summary>
@@ -291,7 +291,7 @@ Technician A implied that he didn't see the damage before by admitting that he d
 
 This point was mentioned during mediation. I asked Greg if taking photos of existing damages was a rule established for all jobs, and Greg stated "yes". I then asked if his employee had these pictures, and Greg stated "I don't know".
 
-If Greg were to have pictures of the damages before the window was replaced, I would have no case. And given that this rule is implemented within Blue Ribbon for precicly cases like this, I can only conclude that Greg did in fact ask his employee if he had the pictures, but refused to say decidedly that his employee didn't in-fact have them. It doesn't happen often, but in this case, I believe that this lack of exculpatory evidence from the defendant actually strengthens my case.
+If Greg were to have pictures of the damages before the window was replaced, I would have no case. And given that this rule is implemented within Blue Ribbon for precisely cases like this, I can only conclude that Greg did in fact ask his employee if he had the pictures, but refused to say decidedly that his employee didn't in-fact have them. It doesn't often happen, but in this case, I believe that this lack of exculpatory evidence from the defendant actually strengthens my case.
 
 ## Point C
 
@@ -312,7 +312,7 @@ To begin with, whatever caused the dents made direct contact to the paint/body/c
 Secondly, the object that left the paint/material behind made contact behind the window, evidenced by where the paint/material exists.
 
 <details>
-  <summary>Paint/scratchs from foreign object, behind the window.</summary>
+  <summary>Paint/material/scratches from foreign object, behind the window.</summary>
 
   *Picture 1*
 
@@ -332,7 +332,7 @@ It is highly unlikely that if an object where to hit the window as Greg describe
 
 # Mediation, before court
 
-**Not admissable in court**
+**Not admissible in court**
 
 There was a mediation done where Greg and I to attempted to resolve this matter before reaching the judge.
 
@@ -346,11 +346,11 @@ Well, in mediation, Greg attempted to say that he spoke with Safelite (a competi
 
 > Greg: I spoke to Safelite. They told me that when they came out to repair Mr Knopf's window, they saw the damage to the truck and refused to do the work because of it, which is why Mr Knopf came to Blue Ribbon to repair the window. And I have that employee, and he is willing to go on the record stating as much.
 
-What?!? I'm not sure who he was trying to convince here, because between me and him, we know the truth. The only thing I can think of was that he was trying to pass that lie to the mediator, which is funny, because the mediator doesn't make judgements. Their sole purpose is to facilate a discussion between Greg and I, so for him to lie like this was appalling. From this moment, I knew that this entire ordeal would be incedibly contentious.
+What?!? I'm not sure who he was trying to convince here, because between me and him, we know the truth. The only thing I can think of was that he was trying to pass that lie to the mediator, which is funny, because the mediator doesn't make judgements. Their sole purpose is to facilitate a discussion between Greg and I, so for him to lie like this was appalling. From this moment, I knew that this entire ordeal would be incredibly contentious.
 
-## "Mr Knopf, why won't you be honest and tell the court whos truck this *really* is?"
+## "Mr Knopf, why won't you be honest and tell the court who's truck this *really* is?"
 
-Greg has always made it a point to refer to my truck as a "borrowed truck", as if that helps his case or somehow absolves him of responsibilty.
+Greg has always made it a point to refer to my truck as a "borrowed truck", as if that helps his case or somehow absolves him of responsibility.
 
 Yes, the truck that I damaged was indeed my fathers. I borrowed it. I could have returned the truck back to my father with the window broken, or the damages done during the replacement of the window. However, my father deserves to have his truck returned to him in the same condition in which he lent it. I took responsibility and owned up to the damage that I did to my fathers truck (broken window) and had it replaced/fixed. I wish I could say that Greg had done the same.
 
@@ -376,7 +376,7 @@ Knowing that this is company policy to take pictures of existing damage before w
 
 We all know that Greg reached out to his employees to ask him for these pictures. He knew that those pictures don't exist. And he knows that if he were to admit that they don't exist, that it would hurt his case.
 
-Greg is incedibly dishonest.
+Greg is incredibly dishonest.
 
 ## "I tried to repair Mr Knopf's window, but he ran off my guys!"
 
