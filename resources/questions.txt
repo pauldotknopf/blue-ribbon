@@ -1,0 +1,24 @@
+Question: Have you seen the damage in question?
+Question: Would you say that the damage is visually apparant upon a quick glance?
+Question: How long have you been working at Blue Ribbon?
+Question: So, you'd be familiar with the rules/procedures with regard to Blue Ribbon?
+Question: If I'm operating a business such as Greg Blum's, I'd imagine that there is some rule with regards to performing work on already existing damages. Something along the lines of "take pictures of existing damage, to protect ourselves from liability".
+Question: What time did you arrive at My home?
+Question: Describe the vehicle when you arrived.
+Question: Did you mention that damage to Paul? If not, why not?
+Question: Did you take pictures of the damage? If not, why not?
+Question: How long did the work take?
+Question: Did anyone else assist you?
+Question: What time did the second technician arrive?
+Question: Did you have problems getting the window out?
+Question: It is my understanding that recent models of the Tacoma have lag bolts the window in place, as opposed to just glueing. Is this correct?
+Question: Did you or the other technician ever use a pole knife?
+Question: Did you ever use the pole knife on the outside of the window?
+Question: What did you do after the work was completed?
+Question: What did Paul say to you after inspecting the work?
+Question: Did you tell him that you saw the damage there before you began working?
+Question: How did the matter get resolved? Did you offer to take payment for the truck?
+Question: When did you notify Greg about the damage?
+Question: Did you tell Greg about the damage?
+Question: Did you mention to him that it was already existing, before you began working?
+Question: Did Greg ask you if you took pictures of the damage?
